@@ -16,3 +16,23 @@ wp-content/plugins/hello.php
 /sitemap.xml
 /sitemap.xml.gz
 
+
+wp-admin/
+wp-includes/
+plugins/
+
+index.php
+license.txt
+readme.html
+wp-activate.php
+wp-blog-header.php
+wp-comments-post.php
+wp-cron.php
+wp-links-opml.php
+wp-trackback.php
+wp-load.php
+xmlrpc.php
+wp-login.php
+wp-settings.php
+wp-signup.php
+wp-mail.php
